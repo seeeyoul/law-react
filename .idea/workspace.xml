@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c91f0646-fcf7-481c-97ae-c29dffbcb02e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1PfvPLypSyOyYk6gD3HFyvY5FXY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backup" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\awesome_projects\law\public" />
+      <recent name="D:\law\src" />
+      <recent name="D:\law\src\pages\Blackbox" />
+      <recent name="D:\law\src\pages\Blackbox\Classify" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\law\backup" />
+      <recent name="D:\awesome_projects\law\src\common\Control\store" />
+      <recent name="D:\awesome_projects\law\src\common\Control" />
+      <recent name="D:\awesome_projects\law\src\common\Accuracy" />
+      <recent name="D:\awesome_projects\law\src\common\Expert" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c91f0646-fcf7-481c-97ae-c29dffbcb02e" name="Default Changelist" comment="" />
+      <created>1563101364993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563101364993</updated>
+      <workItem from="1563101366688" duration="5962000" />
+      <workItem from="1563166143041" duration="8466000" />
+      <workItem from="1563179534413" duration="82000" />
+      <workItem from="1563179655913" duration="24000" />
+      <workItem from="1563448055928" duration="620000" />
+      <workItem from="1563450071898" duration="1582000" />
+      <workItem from="1563605395899" duration="80000" />
+      <workItem from="1563769729808" duration="641000" />
+      <workItem from="1563864695246" duration="3480000" />
+      <workItem from="1566277952252" duration="19215000" />
+      <workItem from="1566300882666" duration="2500000" />
+      <workItem from="1566980190049" duration="1703000" />
+      <workItem from="1567007018168" duration="11000" />
+      <workItem from="1567653062407" duration="10468000" />
+      <workItem from="1567677632652" duration="4554000" />
+      <workItem from="1567687453616" duration="177000" />
+      <workItem from="1567739307080" duration="2131000" />
+      <workItem from="1568017688944" duration="15141000" />
+      <workItem from="1568091432305" duration="19000" />
+      <workItem from="1568192761308" duration="2902000" />
+      <workItem from="1568260751466" duration="2661000" />
+      <workItem from="1568718765749" duration="2190000" />
+      <workItem from="1569054241379" duration="9000" />
+      <workItem from="1569502724136" duration="179000" />
+      <workItem from="1569503057851" duration="95000" />
+      <workItem from="1569510032466" duration="28000" />
+      <workItem from="1569934101020" duration="1114000" />
+      <workItem from="1570250533716" duration="1044000" />
+      <workItem from="1572438279788" duration="6766000" />
+      <workItem from="1572525838241" duration="5726000" />
+      <workItem from="1572608096875" duration="3561000" />
+      <workItem from="1572672592572" duration="29000" />
+      <workItem from="1572951106082" duration="2469000" />
+      <workItem from="1573729866345" duration="5233000" />
+      <workItem from="1573735287032" duration="36000" />
+      <workItem from="1575450485789" duration="5650000" />
+      <workItem from="1575457286377" duration="1088000" />
+      <workItem from="1577255310146" duration="3758000" />
+      <workItem from="1577259085376" duration="1191000" />
+      <workItem from="1578038061830" duration="5662000" />
+      <workItem from="1578116725289" duration="11000" />
+      <workItem from="1578128777599" duration="45000" />
+      <workItem from="1578128835572" duration="15000" />
+      <workItem from="1578128862951" duration="449000" />
+      <workItem from="1578129354873" duration="31000" />
+      <workItem from="1578129445582" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -30,22 +30,36 @@ class InputPart extends PureComponent{
     handleGetDecision(){
         this.props.closeCSV();
         const data = {
-            id: this.caseID.state.value,
-            original_complaint: this.original_complaint.value,
-            defendant_pleaded: this.defendant_pleaded.value,
-            threadhold: this.props.threadhold,
-            case_type: this.props.case_type,
-        },
-        req_header = {headers: {'Content-Type': 'application/x-www-form-urlencoded'}};
+                id: this.caseID.state.value,
+                original_complaint: this.original_complaint.value,
+                defendant_pleaded: this.defendant_pleaded.value,
+                threadhold: this.props.threadhold,
+                case_type: this.props.case_type,
+            },
+            req_header = {headers: {'Content-Type': 'application/x-www-form-urlencoded'}};
+        //axios.post('http://49.235.20.228:9090/get_decision',qs.stringify(data),req_header)
         axios.post(this.props.ip+':5000/get_decision',qs.stringify(data),req_header)
-        .then(res => {
-            if (res.data.code === 200) {
-                message.success("提交成功.");
-                this.props.setRes(res.data.data);
-            } else {
-                message.error("提交失败.");
-            }
-        })
+            .then(res => {
+                if (res.data.code === 200) {
+                    message.success("提交成功.");
+                    let $res = res.data.data, $plainOptions = [];
+                    !this.props.csv && $res[1].forEach(el => {
+                        $plainOptions.push(el.item);
+                    });
+                    $plainOptions.unshift("全部");
+                    this.setState({
+                        flag: false,
+                        selectPoint:"",
+                        data: $res[0],
+                        left: $res[0].原告诉称,
+                        right: $res[0].被告辩称,
+                        plainOptions: $plainOptions
+                    });
+                    this.props.setRes($res);
+                } else {
+                    message.error("提交失败.");
+                }
+            })
     }
     onChange(info) {
         const { status } = info.file;

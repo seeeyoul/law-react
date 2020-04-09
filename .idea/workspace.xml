@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c91f0646-fcf7-481c-97ae-c29dffbcb02e" name="Default Changelist" comment="" />
+    <list default="true" id="c91f0646-fcf7-481c-97ae-c29dffbcb02e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ant _/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taro/.idea/taro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taro/book_system/src/pages/comment/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taro/book_system/src/pages/comment/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Accuracy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ArguePoint/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Control/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Control/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Expert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/InputPart/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/OutputPart/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Blackbox/AbstractExtraction/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Blackbox/Classify/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Blackbox/Knowledge/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PfvPLypSyOyYk6gD3HFyvY5FXY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -138,6 +174,16 @@
       <workItem from="1578128862951" duration="449000" />
       <workItem from="1578129354873" duration="31000" />
       <workItem from="1578129445582" duration="115000" />
+      <workItem from="1585562863647" duration="3523000" />
+      <workItem from="1585701708948" duration="23000" />
+      <workItem from="1586051607319" duration="1705000" />
+      <workItem from="1586142285334" duration="6000" />
+      <workItem from="1586221170338" duration="1204000" />
+      <workItem from="1586224841139" duration="5000" />
+      <workItem from="1586264511768" duration="8559000" />
+      <workItem from="1586313095175" duration="9274000" />
+      <workItem from="1586351720998" duration="6879000" />
+      <workItem from="1586408480094" duration="5721000" />
     </task>
     <servers />
   </component>
@@ -156,5 +202,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="42" width="1040" height="810" maximized="true" key="dock-window-1" timestamp="1586338545888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="162" y="42" width="1040" height="810" key="dock-window-1/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1586319689138" />
+    <state x="162" y="42" width="1040" height="810" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1586338545888" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586267089172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1586267089172" />
   </component>
 </project>
